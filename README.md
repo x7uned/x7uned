@@ -1,5 +1,12 @@
-## Welcome to my page 👋
-I'm Denis, Fullstack developer from  Kharkiv, Ukraine
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis
+=============================================================================================================================
+
+Im Fullstack Developer from Kharkiv, Ukraine
+--------------------------------------------
+
+<a href="https://www.github.com/x7uned" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/x7uned?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a><a href="https://www.twitch.tv/x7uned" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/x7uned?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -60,3 +67,17 @@ I'm Denis, Fullstack developer from  Kharkiv, Ukraine
 
 </td></tr></table>  
 
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/x7uned" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/x7uned" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/x7uned" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/x7uned" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/x7uned"><img src="https://github-readme-stats.vercel.app/api?username=x7uned&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="x7uned's GitHub stats" /></a>
+
+<a href="https://github.com/x7uned" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x7uned&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/x7uned/bankeuFront" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=x7uned&repo=bankeuFront&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/x7uned/lifeFront" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=x7uned&repo=lifeFront&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
