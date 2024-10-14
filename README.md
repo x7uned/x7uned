@@ -1,13 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis
-=============================================================================================================================
-
-Im Fullstack Developer from Kharkiv, Ukraine
---------------------------------------------
-
-<a href="https://www.github.com/x7uned" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/x7uned?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a><a href="https://www.twitch.tv/x7uned" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/x7uned?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
